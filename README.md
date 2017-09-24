@@ -16,13 +16,13 @@ The Symfony Standard Edition is configured with the following defaults:
 
   * Swiftmailer;
 
-  * Annotations enabled for everything.
+  * Annotations enabled for everything;
   
-  * CORS configurated by default.
+  * CORS configurated by default;
   
-  * Enable Doctrine Migrations
+  * Enable Doctrine Migrations;
   
-  * Enable JMS annotations
+  * Enable JMS annotations;
 
 
 Instalation
