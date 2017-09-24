@@ -28,7 +28,13 @@ The Symfony Standard Edition is configured with the following defaults:
 Instalation
 --------------
 
-$ bin/console server:run
+1) Create a database ApiExample
+
+2) $ php bin/console doctrine:migrations:migrate
+ 
+3) $ composer install
+
+4) $ bin/console server:run
 
 Examples
 --------------
