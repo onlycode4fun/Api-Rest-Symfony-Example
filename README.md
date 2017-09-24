@@ -28,7 +28,7 @@ The Symfony Standard Edition is configured with the following defaults:
 Instalation
 --------------
 
-$ bin/console server run
+$ bin/console server:run
 
 Examples
 --------------
