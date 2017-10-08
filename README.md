@@ -30,11 +30,11 @@ Instalation
 
 1) Create a database ApiExample
 
-2) $ php bin/console doctrine:migrations:migrate
+2) $ composer install 
  
-3) $ composer install
+3) $ php bin/console doctrine:migrations:migrate
 
-4) $ bin/console server:run
+4) $ (php) bin/console server:run
 
 Examples
 --------------
